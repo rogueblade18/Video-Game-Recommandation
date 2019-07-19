@@ -1,0 +1,54 @@
+.title {     display: inline-block; margin-left: 6%; width: 20%; } .navSmall {     width: 41%;     display: inline-block;     margin-left: 27%; } .header {     height: 120px;     background-color: darkgray; }
+
+ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+
+h1 {
+    color: white;
+}
+
+
+
+img {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+.text {     width: 80%;     margin-left: auto;     margin-right: auto;     display: flex;     justify-content: flex-start;     align-items:flex-start; }
+
+
+
+h5 {
+    color: white;
+    
+}
+
+body {
+    background-color: beige;
+}
+
+text_2 {
+    display:inline-block;
+    width: 24.75%;
+}
